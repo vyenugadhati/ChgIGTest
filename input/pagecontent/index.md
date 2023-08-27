@@ -1,3 +1,3 @@
 # ChgIG
 
-Feel free to modify this index page with your own awesome content!
+This is a test page for the upcoming new CHG implementation guide
